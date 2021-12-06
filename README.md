@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<h2 align="left">GitHub Stats </h2>
+
+![GitHub metrics](https://metrics.lecoq.io/ismaeelnawaz)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ismaeelnawaz)  
+
+![Profile views](https://gpvc.arturio.dev/ismaeelnawaz) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaeelnawaz&show_icons=true&count_private=true) 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismaeelnawaz)  
+
 <!--
 **ismaeelnawaz/ismaeelnawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
