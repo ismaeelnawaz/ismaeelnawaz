@@ -51,7 +51,7 @@ Experienced in leading cross-functional teams and collaborating with stakeholder
 
 ## Professional Experience
 
-### Careem — Senior AI Engineer  
+### Careem — Senior AI Engineer I 
 **October 2025 – Present | Pakistan**
 
 - Working on large-scale, production-grade AI systems supporting Careem’s core platforms  
