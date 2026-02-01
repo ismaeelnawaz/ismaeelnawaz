@@ -1,127 +1,108 @@
 # Muhammad Ismaeel
 
-Senior AI / ML Engineer  
-Generative AI • LLMs • MLOps • Data Science  
+Senior AI/ML Engineer | Tech Lead
+
 Lahore, Pakistan
 
 ---
 
-## About Me
+## About
 
-Senior AI/ML Engineer with 6+ years of experience designing and deploying production-grade AI systems for global clients, including Fortune 500 companies and enterprise SaaS platforms.
+Senior AI/ML Engineer with 6+ years building production-grade AI systems that drive measurable business impact. Expert in end-to-end ML pipelines, MLOps infrastructure, and generative AI applications across marketing tech, fintech, and enterprise SaaS.
 
-Specialized in Generative AI (LLM fine-tuning, RAG, agentic workflows), MLOps infrastructure, and real-time ML serving, delivering scalable, high-impact solutions across fintech, marketing technology, energy, and enterprise systems.
-
-Experienced in leading cross-functional teams and collaborating with stakeholders across the US, UK, China, and Thailand to translate AI capabilities into measurable business outcomes.
+Led cross-functional teams and delivered AI solutions serving Fortune 500 clients across the US, UK, China, and Thailand. I focus on building systems that scale—from research prototypes to production services handling millions of requests.
 
 ---
 
-## Core Expertise
+## What I Do
 
-### Machine Learning & AI
-- Deep Learning (CNNs, Transformers)
-- Ensemble Models (XGBoost, LightGBM)
-- Time Series (ARIMA, Prophet)
-- Computer Vision and NLP
-- A/B Testing and Model Evaluation
+**ML Systems Architecture** — Design and deploy large-scale ML platforms with emphasis on reliability, observability, and cost efficiency. Built distributed training pipelines processing petabytes of data and inference systems serving real-time predictions at scale.
 
-### Generative AI and LLMs
-- GPT, BERT, Stable Diffusion
-- RAG Pipelines
-- Agentic AI Workflows
-- Hugging Face and Fine-tuning
-- Prompt Engineering and Embeddings
+**Generative AI & LLMs** — Production deployment of LLM applications including RAG pipelines, agentic workflows, and fine-tuned models. Experience with GPT-4, open-source LLMs, and multimodal systems (Stable Diffusion, ControlNet).
 
-### MLOps and Infrastructure
-- Docker and Kubernetes
-- MLflow and Kubeflow
-- Apache Airflow and Kafka
-- CI/CD for ML Systems
-- Model Monitoring and Retraining
+**MLOps & Platform Engineering** — End-to-end ML infrastructure: feature stores, experiment tracking, automated retraining, model monitoring, and CI/CD for ML. Strong focus on reducing time-to-production and operational overhead.
 
-### Programming and Data
-- Python (PyTorch, TensorFlow, Scikit-learn)
-- SQL (PostgreSQL, MySQL)
-- Spark, Pandas, NumPy
-- Elasticsearch, Redis, MongoDB
-- AWS (S3, EC2, Lambda, SageMaker)
-- Google Cloud AutoML
+**Technical Leadership** — Led AI strategy initiatives translating complex ML capabilities into business outcomes. Experience advising C-level stakeholders and shaping product roadmaps aligned with organizational goals.
 
 ---
 
-## Professional Experience
+## Experience
 
-### Careem — Senior AI Engineer I 
-**October 2025 – Present | Pakistan**
+**Careem (Uber)** — Senior AI Engineer I
+Oct 2025 – Present
 
-- Working on large-scale, production-grade AI systems supporting Careem’s core platforms  
-- Designing and deploying ML and Generative AI solutions with a strong focus on scalability, reliability, and business impact  
-- Collaborating with product, data, and engineering teams to integrate AI into real-world, high-traffic consumer systems  
+- Building large-scale, production-grade AI systems supporting Careem's core platforms serving millions of users across the Middle East and Pakistan
+- Designing and deploying ML and Generative AI solutions with focus on scalability, reliability, and measurable business impact
+- Collaborating with product, data, and engineering teams to integrate AI into high-traffic consumer systems
 
----
+**Revcloud (Alyson.ai)** — Senior AI Engineer / Tech Lead
+Aug 2023 – Oct 2025
 
-### Revcloud — Senior AI Engineer  
-**Aug 2024 – Oct 2025 | Newport Beach, USA**
+- Architected ML-powered revenue optimization models driving 50%+ uplift in lead generation
+- Built production MLOps stack: data lake ingestion, automated retraining, A/B testing, live monitoring via Prometheus + Grafana
+- Designed agentic AI orchestration layer with Ray + Airflow, reducing manual intervention by 30%
+- Developed generative AI marketing platform with GPT-4 fine-tuning and embedding-based audience targeting
+- Implemented Stable Diffusion pipelines with DreamBooth and ControlNet for real estate visualization
 
-- Architected ML-powered revenue optimization models, driving 50%+ uplift in lead generation  
-- Built a full MLOps stack from data ingestion to real-time inference on AWS SageMaker  
-- Designed agentic AI orchestration to coordinate ML workflows, reducing manual intervention by 30%
+**NETSOL Technologies** — Machine Learning Engineer / AI Consultant
+Mar 2020 – Jul 2023
 
----
+- Enhanced enterprise platform with AI-driven risk assessment, reducing processing time from 2 days to under 5 minutes
+- Delivered ML solutions to Fortune 500 financial institutions, improving approval throughput by 45%
+- Built distributed ML platform on AWS SageMaker + EMR, training 4,000+ predictive models for oil & gas operations
+- Developed computer vision systems for infrastructure inspection and real-time media analytics
+- Increased process automation by 30-50% across product suite through embedded ML capabilities
 
-### Revcloud — AI Engineer  
-**Aug 2023 – Aug 2024**
+**CuddlyNest** — Software Engineer / ML Infrastructure
+Jun 2019 – Feb 2020
 
-- Developed a production-grade Generative AI marketing platform using GPT fine-tuning and embedding-based targeting  
-- Built Stable Diffusion pipelines using DreamBooth and ControlNet for real estate visualization  
-- Led AI strategy initiatives across product, marketing, and analytics teams
-
----
-
-### NETSOL Technologies — Machine Learning Engineer  
-**Mar 2020 – Jul 2023 | Lahore, Pakistan**
-
-- Integrated AI-driven risk assessment using XGBoost and SHAP, reducing processing time from 2 days to under 5 minutes  
-- Delivered enterprise ML solutions to Fortune 500 financial institutions across China, Thailand, the UK, and the US  
-- Trained more than 4,000 predictive models for oil and gas operations using AWS SageMaker and EMR  
-- Built production computer vision systems for infrastructure inspection and real-time media analytics
+- Built hotel search platform indexing 4M+ listings with sub-500ms query latency
+- Designed streaming architecture with Kafka + Flink processing millions of daily updates in sub-300ms
+- Developed microservices in Python + Go maintaining sub-100ms API response times at scale
 
 ---
 
-### CuddlyNest — Software Engineer, ML Platform  
-**Jun 2019 – Feb 2020 | Orlando, USA**
+## Technical Skills
 
-- Built a hotel search platform indexing over 4 million listings using Elasticsearch  
-- Designed Kafka and Flink streaming pipelines with sub-300 millisecond latency  
-- Developed scalable microservices in Python and Go with sub-100 millisecond APIs
+**ML & AI:** Deep Learning, Transformers, Reinforcement Learning, XGBoost, LightGBM, Time Series, Computer Vision, NLP
+
+**Generative AI:** GPT, BERT, Stable Diffusion, RAG, LLM Fine-tuning, LangChain, LangGraph, Agentic Systems
+
+**Infrastructure:** Python, PyTorch, TensorFlow, Docker, Kubernetes, AWS (SageMaker, EMR, Lambda), GCP
+
+**MLOps:** MLflow, Kubeflow, Airflow, Kafka, Ray, Feature Stores, Model Monitoring, CI/CD for ML
+
+**Data:** Spark, PostgreSQL, MongoDB, Redis, Elasticsearch, Redshift, ETL/ELT Pipelines
 
 ---
 
 ## Education
 
-- Master of Science in Data Science — Information Technology University (2019–2023)  
-- Bachelor of Science in Electrical Engineering — University of Engineering and Technology, Lahore (2015–2019)
+**M.S. Data Science** — Information Technology University, Lahore (2019–2023)
+
+**B.S. Electrical Engineering** — University of Engineering & Technology, Lahore (2015–2019)
 
 ---
 
 ## Publications
 
-- Predicting Functional Roles of Ethereum Blockchain Addresses  
-- Production Enhancement through Integration of Lean, Life Cycle Assessment, and Industry 4.0
+- "Predicting Functional Roles of Ethereum Blockchain Addresses" — Peer-to-Peer Networking and Applications, Springer, 2023
+
+- "Production Enhancement through Integration of Lean, Life Cycle Assessment & Industry 4.0" — Jurnal Kejuruteraan, 2023
 
 ---
 
-## Languages
+## Current Interests
 
-- English — Professional Working Proficiency
+- Large-scale ML system design and optimization
+- LLM agents and autonomous AI systems
+- ML platform engineering and developer experience
+- Efficient inference and model serving at scale
 
 ---
 
 ## Contact
 
-Email: m.ismaeelkanju@gmail.com  
-LinkedIn: https://www.linkedin.com/in/muhammad-ismaeel-250b26200
+Email: m.ismaeelkanju@gmail.com
 
----
-
-Focused on building scalable, production-ready AI systems that deliver measurable business value.
+LinkedIn: linkedin.com/in/muhammad-ismaeel-250b26200
