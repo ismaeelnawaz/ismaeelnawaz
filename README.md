@@ -8,7 +8,7 @@ Lahore, Pakistan
 
 ## About
 
-Senior AI/ML Engineer with 6+ years building production-grade AI systems that drive measurable business impact. Expert in end-to-end ML pipelines, MLOps infrastructure, and generative AI applications across marketing tech, fintech, and enterprise SaaS.
+Senior AI/ML Engineer with 7+ years building production-grade AI systems that drive measurable business impact. Expert in end-to-end ML pipelines, MLOps infrastructure, and generative AI applications across marketing tech, fintech, and enterprise SaaS.
 
 Led cross-functional teams and delivered AI solutions serving Fortune 500 clients across the US, UK, China, and Thailand. I focus on building systems that scale—from research prototypes to production services handling millions of requests.
 
